@@ -13,20 +13,6 @@
 #include "CSF372.h"
 
 
-/*
-
- Group 24
- Group members:-    Devashish Deshpande - 2020A3PS2207H
-                    Shreenidhi Joisa    - 2020A3PS2136H
-                 	Kedar Nandkhedkar   - 2020A3PS0481H
-                	Prakhar Gupta       - 2020A8PS0697H
-                  	Faizal Shaikh       - 2020AAPS2107H
-                 	Aadyan Choudhary    - 2021A4PS2846H
-                 	Dhruv Jain - 		- 2020A3PS2214H
-                 	Chinmayee Selukar   - 2020A8PS0735H
-
-
-*/
 
 
 #define MAX_NAME_LENGTH 20
